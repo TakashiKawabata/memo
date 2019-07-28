@@ -8,18 +8,18 @@
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="css/style.css">
 
-<title>よくわかるPHPの教科書</title>
+<title>データベースを理解するメモアプリ</title>
 </head>
 <body>
 <header>
-<h1 class="font-weight-normal">よくわかるPHPの教科書</h1>
+<h1 class="font-weight-normal">メモアプリ</h1>
 </header>
 
 <main>
 <h2>Practice</h2>
 <pre>
 <?php
-/* ここに、PHPのプログラムを記述します */
+/* ここに記述 */
 ?>
 </pre>
 </main>
